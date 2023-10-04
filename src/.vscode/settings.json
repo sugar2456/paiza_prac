@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "ConsoleApp.sln",
+    "dotnet-test-explorer.testProjectPath": "**/*Test.@(csproj|vbproj|fsproj)"
+}
